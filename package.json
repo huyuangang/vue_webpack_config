@@ -1,0 +1,26 @@
+{
+  "name": "vue_webpack_config",
+  "version": "1.0.0",
+  "description": "vue+webpack 实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyuangang/vue_webpack_config.git"
+  },
+  "keywords": [
+    "vue",
+    "webpack"
+  ],
+  "author": "huyuangang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyuangang/vue_webpack_config/issues"
+  },
+  "homepage": "https://github.com/huyuangang/vue_webpack_config#readme",
+  "devDependencies": {
+    "webpack": "^4.14.0"
+  }
+}
